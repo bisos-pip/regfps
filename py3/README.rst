@@ -6,7 +6,7 @@ unisos.marme Library
    :depth: 3
 ..
 
-RegFPs: Registrars Framework Based On File Parameters.
+CS Services for implementation of Site Regsitrars.
 
 Support
 =======
@@ -29,4 +29,4 @@ Example Usage
 
 ::
 
-   from  bisos.regfps import regfps
+   from  unisos import icm
